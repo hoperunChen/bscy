@@ -183,7 +183,7 @@
 }
 
 .icontent .txt {
-  width: 246px;
+  width: 255px;
   padding: 5px;
   font-size: 14px;
   font-family: '微软雅黑';
@@ -348,4 +348,58 @@
 
 .iproject ul li .tit a {
   color: #ffffff;
+}
+
+.ime {
+  width: 970px;
+  border: 1px solid #b80505;
+  height: 176px;
+  background: #b80505;
+}
+
+.ime .title {
+  background: url("../_img/title2.jpg") repeat-x;
+  height: 32px;
+  border-bottom: 1px solid #b80505;
+  padding-left: 10px;
+  width: 960px;
+  padding-top: 6px;
+}
+
+.ime .title .n {
+  background: url("../_img/ico.jpg") left no-repeat;
+  padding-left: 28px;
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 14px;
+  width: 150px;
+  float: left;
+  letter-spacing: 2px;
+}
+
+.ime .iteam_img {
+  border: 3px solid #efc72e;
+  margin-right: 10px;
+}
+
+.foot {
+  width: 980px;
+  height: 78px;
+  margin: 0 auto;
+  padding-top: 10px;
+  text-align: center;
+  color: #fff;
+  line-height: 30px;
+}
+
+.foot a, .foot a:link, .foot a:visited {
+  color: #fff;
+}
+
+.foot a, .foot a:link, .foot a:visited {
+  color: #fff;
+}
+
+.foot a, .foot a:link, .foot a:visited {
+  color: #fff;
 }

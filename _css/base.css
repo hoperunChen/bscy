@@ -26,6 +26,30 @@ li {
   float: left;
 }
 
+table {
+  display: table;
+  border-collapse: separate;
+  border-spacing: 2px;
+  border-color: gray;
+}
+
+tbody {
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
+
+tr {
+  display: table-row;
+  vertical-align: inherit;
+  border-color: inherit;
+}
+
+td, th {
+  display: table-cell;
+  vertical-align: inherit;
+}
+
 a:link {
   COLOR: #000;
   TEXT-DECORATION: none;
