@@ -1,0 +1,54 @@
+.right_title {
+  background: url("../_img/title2.jpg") repeat-x;
+  height: 32px;
+  padding-left: 8px;
+  width: 678px;
+  padding-top: 6px;
+}
+
+.right_title .n {
+  background: url("../_img/ico.jpg") left no-repeat;
+  padding-left: 28px;
+  font-weight: bold;
+  color: #ffffff;
+  font-size: 14px;
+  width: 300px;
+  float: left;
+  letter-spacing: 2px;
+}
+
+.right_title .path {
+  width: 300px;
+  float: right;
+  padding-right: 20px;
+  text-align: right;
+  color: #ffffff;
+}
+
+.right_title .path a, .right_title .path a:link, .right_title .path a:hover {
+  color: #ffffff;
+}
+
+.content {
+  width: 620px;
+  padding: 30px;
+  color: #000;
+  line-height: 34px;
+  text-align: left;
+}
+
+.xk-container h1, h2, p {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+.right {
+  background: #ffa800;
+  width: 686px;
+  margin-left: 6px;
+  float: left;
+  border: 1px solid #b80505;
+  main-height: 1448px;
+  _height: 1452px;
+}
