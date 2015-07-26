@@ -66,3 +66,23 @@ a:visited {
   font-weight: normal;
 }
 
+.nav {
+  margin: 0 auto;
+  background: url("../_img/nav_bg.jpg") repeat-x;
+  width: 1004px;
+  height: 47px;
+}
+
+.nav li {
+  width: 125px;
+  height: 46px;
+  line-height: 46px;
+  text-align: center;
+  background: url("../_img/nav_bg1.jpg") no-repeat right;
+}
+
+.nav li a {
+  font-size: 14px;
+  color: #ffffff;
+  font-weight: bold;
+}
