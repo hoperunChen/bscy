@@ -86,3 +86,13 @@ a:visited {
   color: #ffffff;
   font-weight: bold;
 }
+
+
+.flex-viewport,.flex-viewport *,.flexslider .slides img{
+
+  height:330px;
+}
+
+.flexslider{
+  height:280px;
+}
