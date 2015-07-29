@@ -1,0 +1,41 @@
+.content2 {
+  width: 680px;
+  color: #000;
+  line-height: 34px;
+  font-size: 12px;
+}
+
+.server {
+  width: 680px;
+}
+
+.xk-container ul, li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.server li {
+  border: 1px solid #ffa800;
+  width: 187px;
+  height: 210px;
+  background: #e56901;
+  margin: 20px 0px 25px 22px;
+  _margin: 20px 0px 25px 16px;
+  padding: 3px 3px 3px 4px;
+  color: #FFF;
+  line-height: 24px;
+}
+
+.server li .tit {
+  width: 187px;
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 34px;
+  background: #630005;
+}
+
+.server li .tit a {
+  color: #ffffff;
+}
