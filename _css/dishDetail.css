@@ -1,0 +1,15 @@
+.right {
+  background: url('../_img/back.jpg') no-repeat ;
+  background-position: 50% 0%;
+  width: 686px;
+  height:720px;
+  margin-left: 6px;
+  float: left;
+  border: 1px solid #b80505;
+  main-height: 1448px;
+  _height: 1452px;
+}
+
+.content{
+	height: :720px;
+}
