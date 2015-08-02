@@ -1,8 +1,7 @@
 .right {
-  background: url('../_img/back.jpg') no-repeat ;
+  background: url('../_img/back.jpg') repeat-y ;
   background-position: 50% 0%;
   width: 686px;
-  height:720px;
   margin-left: 6px;
   float: left;
   border: 1px solid #b80505;
@@ -10,6 +9,16 @@
   _height: 1452px;
 }
 
-.content{
-	height: :720px;
+
+
+.content_foot{
+  height: 450px;
+  background: url('../_img/back_foot.jpg') no-repeat ;
+  background-position: 50% 0%;
+}
+
+.content_foot p span img{
+  margin-top: 40px;
+  max-width: :400px;
+  max-height: 300px
 }
